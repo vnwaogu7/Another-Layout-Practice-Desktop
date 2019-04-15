@@ -55,6 +55,10 @@ ul{
   margin-top:0px;
 }
 
+ul a{
+  margin:20px;
+}
+
 #break{
   text-align:center;
 }
